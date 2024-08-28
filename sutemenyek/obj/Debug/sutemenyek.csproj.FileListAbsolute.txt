@@ -1,0 +1,13 @@
+C:\Users\farka\Desktop\minden\suli\gyakszi\Ricsi\probac#\sutemenyek\sutemenyek\bin\Debug\sutemenyek.exe.config
+C:\Users\farka\Desktop\minden\suli\gyakszi\Ricsi\probac#\sutemenyek\sutemenyek\bin\Debug\sutemenyek.exe
+C:\Users\farka\Desktop\minden\suli\gyakszi\Ricsi\probac#\sutemenyek\sutemenyek\bin\Debug\sutemenyek.pdb
+C:\Users\farka\Desktop\minden\suli\gyakszi\Ricsi\probac#\sutemenyek\sutemenyek\obj\Debug\sutemenyek.csproj.AssemblyReference.cache
+C:\Users\farka\Desktop\minden\suli\gyakszi\Ricsi\probac#\sutemenyek\sutemenyek\obj\Debug\sutemenyek.Form1.resources
+C:\Users\farka\Desktop\minden\suli\gyakszi\Ricsi\probac#\sutemenyek\sutemenyek\obj\Debug\sutemenyek.Properties.Resources.resources
+C:\Users\farka\Desktop\minden\suli\gyakszi\Ricsi\probac#\sutemenyek\sutemenyek\obj\Debug\sutemenyek.csproj.GenerateResource.cache
+C:\Users\farka\Desktop\minden\suli\gyakszi\Ricsi\probac#\sutemenyek\sutemenyek\obj\Debug\sutemenyek.csproj.CoreCompileInputs.cache
+C:\Users\farka\Desktop\minden\suli\gyakszi\Ricsi\probac#\sutemenyek\sutemenyek\obj\Debug\sutemenyek.exe
+C:\Users\farka\Desktop\minden\suli\gyakszi\Ricsi\probac#\sutemenyek\sutemenyek\obj\Debug\sutemenyek.pdb
+C:\Users\farka\Desktop\minden\suli\gyakszi\Ricsi\probac#\sutemenyek\sutemenyek\bin\Debug\sutemenyek.txt
+C:\Users\farka\Desktop\minden\suli\gyakszi\Ricsi\probac#\sutemenyek\sutemenyek\obj\Debug\sutemenyek.Form2.resources
+C:\Users\farka\Desktop\minden\suli\gyakszi\Ricsi\probac#\sutemenyek\sutemenyek\obj\Debug\sutemenyek.Form3.resources
