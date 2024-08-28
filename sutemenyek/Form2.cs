@@ -58,6 +58,7 @@ namespace sutemenyek
                 if (checkBox1.Checked == true && textBox1.Text != string.Empty || checkBox2.Checked == true && textBox2.Text != string.Empty || checkBox3.Checked == true && textBox3.Text != string.Empty || checkBox4.Checked == true && textBox4.Text != string.Empty || checkBox5.Checked == true && textBox5.Text != string.Empty)
                 {
                     MessageBox.Show("A rendelés leadva!", "Siker!");
+                    button3.Visible = true;
                 }
                 else if(checkBox1.Checked == false && textBox1.Text == string.Empty || checkBox2.Checked == false && textBox2.Text == string.Empty || checkBox3.Checked == false && textBox3.Text == string.Empty || checkBox4.Checked == false && textBox4.Text == string.Empty || checkBox5.Checked == false && textBox5.Text == string.Empty)
                 {
